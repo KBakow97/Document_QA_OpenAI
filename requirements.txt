@@ -1,0 +1,6 @@
+python==3.10.9
+langchain==0.0.270
+chainlit==0.6.3
+chromadb==0.3.26
+pypdf==3.13.0
+openai==0.27.8
